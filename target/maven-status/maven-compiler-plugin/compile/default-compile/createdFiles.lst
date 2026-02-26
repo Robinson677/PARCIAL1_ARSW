@@ -1,2 +1,4 @@
 edu\eci\arsw\math\PiDigits.class
 edu\eci\arsw\math\Main.class
+edu\eci\arsw\math\PiDigitsThread.class
+edu\eci\arsw\math\Pause.class
